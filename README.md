@@ -16,7 +16,7 @@ Fake news refers to misinformation or false information presented as news, often
 
 ## Dataset
 
-The dataset used in this project consists of labeled news articles. Each article is labeled as either fake or real. The dataset includes a variety of news sources and covers a wide range of topics. The dataset is uploaded above as train.csv
+The dataset used in this project consists of labeled news articles. Each article is labeled as either fake or real. The dataset includes a variety of news sources and covers a wide range of topics. The dataset is uploaded above as test.csv
 
 ## Feature Extraction
 
